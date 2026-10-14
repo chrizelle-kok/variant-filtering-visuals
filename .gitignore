@@ -1,0 +1,21 @@
+# Exclude Hail log files and cache
+hail-*.log
+.hail/
+_hail/
+
+# Exclude Python cache
+__pycache__/
+*.pyc
+
+# Exclude raw data/scripts not being published
+*.vcf
+*.vcf.gz
+generate_synthetic_vcf.py
+test_hailMT_generation.py
+
+# Exclude packaged data meant for sharing
+*.tar.gz
+
+# Exclude VS Code local settings & workspace shortcuts
+.vscode/
+*.code-workspace
