@@ -55,4 +55,4 @@ Each script outputs or overwrites its corresponding `.html` file. Open any gener
 * **Project Role:** Designed visualization scripts for variant filtering outputs for integration into the Quarto reporting framework.
 
 * **Main Workflow Repository:** Developed under the supervision of [@phelelani](https://github.com/phelelani). This project complements the main variant filtering workflow hosted at [nf-variantfilt](https://github.com/phelelani/nf-variantfilt).
-* **Disclaimer:**  **Google Gemini** was utilized to assist in writing and refining portions of the Python code for data processing and HTML visualization generation as well as repository setup instructions. All generated code was independently executed, tested, and validated by the author.
+* **Disclaimer:**  **Google Gemini** was utilized to assist in writing and refining portions of the Python code for data processing and HTML visualization generation. All generated code was independently executed, tested, and validated by the author.
